@@ -139,7 +139,7 @@ For analysis purposes:
 
 Therefore, profit-related metrics and visuals should be interpreted as estimates based on the 20% assumption.
 
-## 📷 Power BI Dashboard
+##  Power BI Dashboard
 
 ![E-Commerce Sales Dashboard](PowerBI/Dashboard.png)
 
